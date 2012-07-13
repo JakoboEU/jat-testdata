@@ -2,12 +2,12 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>jamesr</groupId>
-  <artifactId>tests</artifactId>
+  <groupId>jat</groupId>
+  <artifactId>jat-testdata</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>tests</name>
+  <name>jat-testdata</name>
   <url>http://maven.apache.org</url>
 
   <properties>
@@ -17,7 +17,7 @@
   	<dependency>
   		<groupId>junit</groupId>
   		<artifactId>junit</artifactId>
-  		<version>4.9</version>
+  		<version>4.10</version>
   	</dependency>
   </dependencies>
 </project>
