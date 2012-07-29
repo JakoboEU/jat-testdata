@@ -10,6 +10,17 @@
   <name>jat-testdata</name>
   <url>http://maven.apache.org</url>
 
+  <build>  
+   <plugins>
+    <plugin>
+	<artifactId>maven-compiler-plugin</artifactId>
+	<configuration>
+	   <source>1.6</source>
+	   <target>1.6</target>
+	</configuration>
+    </plugin>
+   </plugins>
+  </build>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
