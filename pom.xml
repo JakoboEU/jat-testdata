@@ -4,7 +4,7 @@
 
   <groupId>jat</groupId>
   <artifactId>jat-testdata</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>1.0.0</version>
   <packaging>jar</packaging>
 
   <name>jat-testdata</name>
